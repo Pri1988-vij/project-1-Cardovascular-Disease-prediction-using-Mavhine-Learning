@@ -1,9 +1,12 @@
 # project-1-Cardovascular-Disease-prediction-using-Mavhine-Learning
 
-*In this project The main objective is to find the best algorithm with maximum accuracy prediction.
+*In this Minor project The main objective is to find the best algorithm with maximum accuracy prediction.
+
 *The given data contains missing values and errors, we have to preprocess the data and find insights by plotting Graphs.
+
 *To preprocess the data we can apply label encoding or onehot encoding.
-* to plot the graphs we can use matplotlib and seaborn.
+
+* To plot the graphs we can use matplotlib and seaborn.
 *Next we have to apply various algorithms like Linear regression,logistic Regression ,Decision Tree, Naive Bayes, Random Forest, KNN ,SVM, Kmeans to find which algorithm gives best accuray.
 *The packages involved are
 a)Numpy - Arithmetic operations
